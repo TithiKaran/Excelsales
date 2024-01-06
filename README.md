@@ -17,7 +17,7 @@ Users can interact with the dashboard in real-time, instantly observing the impa
 #### User-Friendly Layout:
 Offers an organized and intuitive layout for easy navigation, ensuring that users can quickly grasp and interpret the presented data.
 
-![Screenshot (52)](https://github.com/TithiKaran/Excelsales/assets/154304303/9cfe6fc5-7fd5-4cde-a690-338160d77d49) 
+![Screenshot (52)](https://github.com/TithiKaran/Excelsales/assets/154304303/17afaa03-5dfe-458a-8063-9db5ab396b50)
 
 ## Conclusion
 The Madhav Store Sales Dashboard is an intuitive and dynamic tool that offers a quick and comprehensive overview of key sales metrics. Featuring interactive elements like slicers, it allows users to customize analyses based on specific criteria such as months, product categories, and sales channels. The user-friendly layout, clear visual representations, and dynamic interactivity make it an invaluable asset for decision-makers, providing real-time insights into sales trends and empowering data-driven decision-making.
